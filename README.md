@@ -1,0 +1,2 @@
+# MAGE
+MAGE: A Multi-Agent Engine for Automated RTL Code Generation
